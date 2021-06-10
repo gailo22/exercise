@@ -1,1 +1,1 @@
-# exercise
+# Coding Exercise inspired by exercism.
